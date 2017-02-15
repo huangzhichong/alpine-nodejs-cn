@@ -1,4 +1,4 @@
-From daocloud.io/huangzhichong/alpine-cn:latest
+From alpine:3.5
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 6.9.5
